@@ -9,4 +9,5 @@ def _42(fn):
             fn()
         except Exception:
             exit(42)
-        return foo
+
+    return foo
