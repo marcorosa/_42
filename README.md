@@ -17,13 +17,15 @@ Installation
 ------------
 
 ```bash
-$ pip install _42
+$ pip install python-42
 ```
 
 Usage
 -----------
 
 ```python
+from _42 import _42
+
 @_42
 def function(...):
     """Whatever."""
