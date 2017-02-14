@@ -16,18 +16,16 @@ Universe and Everything.
 Installation
 ------------
 
-```bash
-$ pip install python-42
-```
+... code:: bash
+    $ pip install python-42
 
 Usage
 -----------
 
-```python
-from _42 import _42
+... code:: python
+    from _42 import _42
 
-@_42
-def function(...):
-    """Whatever."""
-    ...
-```
+    @_42
+    def function(...):
+        """Whatever."""
+        ...
